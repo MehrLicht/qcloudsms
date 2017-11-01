@@ -1,10 +1,10 @@
 {
-    "name": "MehrLicht/qcloudsms",
-    "description": "MehrLicht/qcloudsms",
+    "name": "mehrlicht/qcloudsms",
+    "description": "mehrlicht/qcloudsms",
     "license": "MIT License",
     "authors": [
         {
-            "name": "MehrLicht",
+            "name": "mehrlicht",
             "email": "admin@niceblog.cn"
         }
     ],

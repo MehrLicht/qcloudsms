@@ -1,11 +1,11 @@
 {
-    "name": "chenjie/hello",
-    "description": "echo hello world",
+    "name": "MehrLicht/qcloudsms",
+    "description": "MehrLicht/qcloudsms",
     "license": "MIT License",
     "authors": [
         {
-            "name": "chenjie",
-            "email": "chenjie@chenjie.info"
+            "name": "MehrLicht",
+            "email": "admin@niceblog.cn"
         }
     ],
     "minimum-stability": "dev",
